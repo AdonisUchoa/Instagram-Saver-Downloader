@@ -4,7 +4,7 @@ apply plugin: 'com.google.gms.google-services'
 android {
     compileSdkVersion 33
     defaultConfig {
-        applicationId "com.app.saveinstame"
+        applicationId "com.app.Adonissaveinsta"
         minSdkVersion 21
         targetSdkVersion 33
         versionCode 5
@@ -23,7 +23,7 @@ android {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
-    namespace 'com.app.saveinstame'
+    namespace 'com.app.Adonissaveinsta'
 
 }
 

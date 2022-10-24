@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@color/transparent">
 
-    <com.app.saveinstame.util.TouchImageView
+    <com.app.Adonissaveinsta.util.TouchImageView
         android:id="@+id/imageView_image_show_adapter"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
