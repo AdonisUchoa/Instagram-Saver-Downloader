@@ -1,0 +1,91 @@
+<resources>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8058919570281899/7477832162</string>
+    <string name="banner_ad_unit_id2">ca-app-pub-8058919570281899/1881341815</string>
+    <string name="app_name">Instagram Save</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+<string name="play_more_app">https://play.google.com/store/apps/</string>
+
+<string name="download_folder_path">/InstanceDownload/</string>
+
+<string name="start">Inicia</string>
+<string name="next">Proximo</string>
+<string name="skip">pula</string>
+<string name="intro_one">First of all open this app then after open the Instagram app. click copy link option in image and video.</string>
+<string name="intro_two">Then after view in this app</string>
+<string name="intro_one_ten">Primeiro, abra este aplicativo e depois abra o aplicativo Instagram. clique na opção copiar link em imagem e vídeo.</string>
+<string name="intro_two_ten">Em seguida, após o link passado na seção url neste aplicativo</string>
+<string name="video_message">Adicione seu vídeo como usar este aplicativo</string>
+
+<string name="home">Inicio</string>
+<string name="image">Imagem</string>
+<string name="video">Video</string>
+<string name="rate_app">Sua Opinião</string>
+<string name="more_app">Mais Aplicativos</string>
+<string name="share_app">Compartilhe</string>
+<string name="about_us">Sobre nós</string>
+<string name="privacy_policy">Politica de Privacidade</string>
+<string name="setting">Configurações</string>
+
+<string name="submit">Pesquisar</string>
+<string name="enter_url">Cole o Link aqui</string>
+<string name="please_enter_url">Copie o Link url</string>
+
+<string name="exit">Sair</string>
+<string name="share_to">Share to</string>
+<string name="wrong">Some thing went to wrong</string>
+<string name="allow_permission">Allow permission</string>
+<string name="app_not_install">Instagram application not install</string>
+<string name="internet_connection">Internet connection not available</string>
+<string name="Please_click_BACK_again_to_exit">Please click BACK again to exit</string>
+<string name="Let_me_recommend_you_this_application">Let me recommend you this application</string>
+<string name="folder">A pasta de download da instância mostra sua imagem de download e exibição de vídeo neste aplicativo</string>
+<string name="download_msg">Primeiro de tudo, um download completo, depois você pode outro download</string>
+
+<string name="app_name_about_us">Instance</string>
+<string name="about_us_version">Verson</string>
+<string name="about_us_version_text">1.0</string>
+<string name="about_us_email">Email</string>
+<string name="about_us_email_text">adonisucho@gmail.com</string>
+<string name="about_us_about">About</string>
+<string name="about_us_detail">About</string>
+
+<string name="share">Compartilhar</string>
+<string name="delete">Delete</string>
+<string name="download">Download</string>
+<string name="set_as_wallpaper">Papel de Parede</string>
+
+<string name="loading">Aguarde....</string>
+<string name="downloading">Downloading</string>
+<string name="no_data_found">Nenhum dado Encontrado</string>
+<string name="not_support">Não suportado</string>
+<string name="service_start">Download Começou</string>
+<string name="copy_share_link">Click copy and share link</string>
+<string name="stop">Parar</string>
+<string name="service_off">Download Service off</string>
+<string name="service_on">Download Service on</string>
+
+<string name="no">Não</string>
+<string name="yes">Sim</string>
+<string name="delete_title">Tem certeza de que deseja excluir este arquivo</string>
+
+<string name="delete_confirmation">Delete confirmation message</string>
+<string name="guidance">Guia</string>
+<string name="use">Como usar essa Aplicação</string>
+<string name="introduction">Introduction video how to use this application</string>
+
+<string name="theme">Tema</string>
+<string name="light">Claro</string>
+<string name="dark">Escuro</string>
+<string name="ok">OK</string>
+<string name="cancel">CANCELA</string>
+<string name="choose_one">Choose one</string>
+<string name="system_default">System default</string>
+
+<string name="mb">Mb</string>
+<string name="cash_file">Cash file</string>
+<string name="clear_cash_memory">Clear cash memory</string>
+
+</resources>

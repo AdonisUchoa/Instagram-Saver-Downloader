@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "154750530252",
+    "project_id": "instagram-save-1437b",
+    "storage_bucket": "instagram-save-1437b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154750530252:android:feadb6abf4dc242f0c4869",
+        "android_client_info": {
+          "package_name": "com.app.saveinstame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154750530252-rmvu3lnumuso2413s5snp54r4nj568qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzM7RJ6Olk2kDVyKoadd0gjThMK-FGZYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154750530252-rmvu3lnumuso2413s5snp54r4nj568qr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
